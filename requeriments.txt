@@ -1,1 +1,10 @@
-
+gradio
+torch
+transformers
+accelerate
+qwen-vl-utils
+spaces
+fastapi
+uvicorn
+mcp
+sse-starlette
