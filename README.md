@@ -1,5 +1,5 @@
 ---
-title: AI_LaTex_Conversor
+title: OCR_LaTex_MCP
 emoji: 🤖
 colorFrom: blue
 colorTo: yellow
