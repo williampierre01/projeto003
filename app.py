@@ -1,10 +1,10 @@
+import spaces
 import os
 import io
 import re
 import base64
 import torch
 import uvicorn
-import spaces
 import gradio as gr
 from PIL import Image
 from contextlib import asynccontextmanager
