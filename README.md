@@ -1,6 +1,6 @@
 ---
 title: OCR_LaTex_MCP
-emoji: 🔧
+emoji: 🤖🔧 
 colorFrom: blue
 colorTo: yellow
 sdk: gradio
