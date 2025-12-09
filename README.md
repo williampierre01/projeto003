@@ -10,5 +10,5 @@ pinned: false
 
 gpu: true
 base_image: python:3.10-slim-cuda12.1
-short_description: Convert Base64 Image to LaTeX
+short_description: Convert Base64 Image to LaTeX.
 ---
