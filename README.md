@@ -10,5 +10,5 @@ pinned: false
 
 gpu: true
 base_image: python:3.10-slim-cuda12.1
-short_description: Converte uma imagem de equação matemática (base64) para código LaTeX
+short_description: Converts a mathematical equation image (base64) into LaTeX code.
 ---
