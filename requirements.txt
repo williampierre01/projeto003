@@ -1,6 +1,7 @@
 gradio
 transformers
 torch
+torchvision
 accelerate
 qwen-vl-utils
 spaces
