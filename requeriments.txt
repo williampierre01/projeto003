@@ -1,6 +1,6 @@
 gradio
-torch
 transformers
+torch
 accelerate
 qwen-vl-utils
 spaces
