@@ -18,7 +18,7 @@ jobs:
       - name: Push to Hugging Face Space
         env:
           HF_USERNAME: willp01
-          HF_SPACE_NAME: Projeto003
+          HF_SPACE_NAME: projeto003
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           # 1. Configurações Globais
